@@ -1,0 +1,15 @@
+.hero {
+    background-image: url(cauca.png);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.posts > h2 {
+    background-color: pink;
+}
+h3 ~ p{
+    background-color: #fffbeb;
+}
+li .active{
+    font-size: 50px;
+}
